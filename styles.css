@@ -13,7 +13,7 @@ body{
     align-content: center;
     min-height: 100vh;
     grid-template-rows: minmax(8rem, auto) repeat(5, 6rem);
-    grid-template-columns: repeat(4, 6.5rem);
+    grid-template-columns: repeat(4, 6rem);
 }
 .calculator-grid button{
     cursor: pointer;
